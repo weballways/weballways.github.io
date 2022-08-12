@@ -1,3 +1,1 @@
-cd username.github.io
-
-echo "Hello World" > index.html
+# weballways.github.io
